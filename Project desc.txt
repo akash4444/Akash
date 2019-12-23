@@ -1,0 +1,215 @@
+
+
+Title:---    ONLINE BOOK MANAGEMENT SYSTEM
+Duration---  6 month
+
+
+An Online Book Management Store website project that is based on Java Spring Framework using Sql as a database containing various 
+books in stock along with their title,author and cost.A user visiting the website can see a wide range of books arranged in 
+respective categories.The user may select desired book and view its details.The user may even search for specific books on 
+the website.
+
+
+Role: Requirement analysis, Design, Coding, Implementation, Testing and
+Documentation.
+
+
+
+
+This web project is developed using Java as the front end and sql as a back-end
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Description: This project is implemented  using  Java Spring Framework as the front end and sql as a back-end, Web  services,Bootstrap in JSP . 
+Project is dynamic website containing various books in stock along with their title,author and cost.A user visiting the website can 
+see a wide range of books arranged in respective categories.The user may select desired book and view its details.The user may even
+ search for specific books on the website.The user may select desired book and view its details. The user may even search for specific
+books on the website. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+Once the user selects a book , then they must required to fill a form and
+the book is booked for the user.
+
+
+
+
+
+
+
+
+
+  .  Frontend: Java Spring Framework
+  .  Backend: Sql
+
+   Project  consists of 2 modules:
+
+    . User:  User required to create and login accoount. In this project serves  features  such  as
+      Address Verification, viewing bill , delete account,  update  account,
+      and edit account.
+    . Administrator: maintains  logs  (like  update  ,edit  &  delete  these
+      account).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+acts as a central database containing various books in stock along with their title, 
+author and cost. This project is based on Java Spring Framework using Sql as a database.
+A user visiting the website can see a wide range of books arranged in respective categories.The user may select desired book and
+ view its details.The user may even search for specific books on the website. Once the user create a account and login,then 
+they must required to fill a form and booked the book. 
+
+
+pplications using Spring Framework programmatically in a practical manner as the front end and sql as a back-end. 
+A user visiting the website can see a wide range of books arranged in respective categories.The user may select desired book and
+ view its details.The user may even search for specific books on the website. Once the user create a account and login,then 
+they must required to fill a form and booked the book. 
+
+
+
+
+
+
+
+Software Requirements:
+? Windows Xp, Windows 7(ultimate, enterprise)
+? Sql 2008
+? eclipse
+
+Hardware Components:
+? Hard Disk – 5 GB
+? Memory – 4GB RAM
+
+
+
+
+
+
+
+
+
+
+Online Bookstore System
+An online bookstore software projects that acts as a central database containing various
+books in stock along with their title, author and cost. This project is a website that acts as
+a central book store. This web project is developed using asp.net as the front end and
+sql as a back-end. The sql database stores various book related details. A user visiting
+the website can see a wide range of books arranged in respective categories. The user
+may select desired book and view its price. The user may even search for specific
+books on the website. Once the user selects a book , he then has to fill in a form and
+the book is booked for the user.
+Features:
+? Online Registration/Login.
+? User registration.
+? Book Inventory management.
+? Book booking & availability check.
+? Admin area.
+Software Requirements:
+? Windows Xp, Windows 7(ultimate, enterprise)
+? Sql 2008
+? Visual studio 2010
+Hardware Components:
+? Processor – i3
+? Hard Disk – 5 GB
+? Memory – 1GB RAM
+Advantages:
+? Customers can get their book delivered instead of actually going and buying the book.
+They can make payment online itself.
+? Managing of inventory in the shop for shopkeeper becomes easier as customers are not
+visiting and ordering online.
+? This system saves both time and travelling cost of customers.
+? User can get to know different kinds of books that they were unaware of by just
+searching in the system using keywords.
+Disadvantages:
+? The only disadvantage is if the customer receives a book that is not in proper condition
+or has some kind of defect then there incurs an additional charge of posting it back.
+Applications:
+? The system can be very well used by the book shopkeepers to expand their customers.
+? The system can also be implemented in publishing houses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Features:
+
+User area:-
+? Online Registration/Login.
+? Book Collection/Stock management.
+? Book booking & check availability
+
+Admin area:-
+Books Management:-Adding/Removing of books
+
+
+
+
+
+Advantages:
+
+? Customers can get their book delivered instead of actually going and buying the book.
+They can make payment online itself.
+? Managing of Stocks in the shop for shopkeeper becomes easier as customers are not
+visiting and ordering online.
+? This system saves both time and travelling cost of customers.
+? User can get to know different kinds of books that they were unaware of by just
+searching in the system using keywords.
+
+
+Disadvantages:
+? The only disadvantage is if the customer receives a book that is not in proper condition
+or has some kind of defect then there incurs an additional charge of posting it back.
+
+
+Applications:
+? The system can be very well used by the book shopkeepers to expand their customers.
+? The system can also be implemented in publishing houses.
+
+
+
+
+
+
+
+
+
+
+Spring framework is one of the most popular frameworks in the Java world which used to develop Java application,
+ both core Java, and web application. It is also one of the most job oriented skill for Java developer, 
+hence many beginners and intermediate Java programmers try to learn Spring framework by their own. Though
+ there are some good Spring training courses available online, books are still the most popular and preferred
+ way to learn Spring frameworks like Spring core, Spring Boot, Spring MVC, Spring Batch or Spring Security.  
+I often receive queries for Spring book recommendations e.g. which Spring book is good for beginners, or which
+ Spring book is good for intermediate and advanced developers, which book should I read to learn Spring boot, 
+Spring Cloud, Spring Batch or Spring security etc?
